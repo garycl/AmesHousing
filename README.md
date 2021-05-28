@@ -6,5 +6,5 @@
 
 #### Repo organization
 - code: Jupyter notebooks
-- data: all files from Kaggle (https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+- data: all files from [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 - output: saved output
