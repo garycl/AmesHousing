@@ -1,5 +1,5 @@
 # Ames House Price Prediction
-#### Goal of project
+#### Goal of first machine learning model project
 - Data exploration
 - Feature selection and engineering
 - Predict house price using various methods, including Random Forest, Gradient Boosting, Light GBM, XGBM, a stacked meta learner, and a weighted-average meta learner.
